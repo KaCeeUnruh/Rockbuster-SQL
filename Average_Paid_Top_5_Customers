@@ -1,4 +1,4 @@
-# Find the average amount paid by the top five customers: 
+# Average amount paid by the top 5 customers: 
 
 
 WITH total_amount_paid_cte (total_amount_paid) AS
