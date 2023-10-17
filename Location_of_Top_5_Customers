@@ -1,4 +1,4 @@
-Find how many of the top 5 customers are based within each country:
+# Locate the country of the top five customers:
 
 
 WITH top_5_customers AS
