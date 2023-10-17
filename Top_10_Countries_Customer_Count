@@ -1,3 +1,6 @@
+# Top ten countries by customer count:
+
+
 SELECT 
 COUNT(A. customer_id) as number_of_customers, D. country
 FROM customer A
