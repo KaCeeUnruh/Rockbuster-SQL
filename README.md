@@ -19,5 +19,5 @@ Use Excel to create a data dictionary.
 Finally, create final presentation for management to view.
 
 # Data Set
-Dataset was presented by Career Foundry:
+Dataset was presented by CareerFoundry:
 [Careeer Foundry data](https://drive.google.com/file/d/1hVzBWz5ORRbI37HA8p5tAiuZyMOe66yI/view)
